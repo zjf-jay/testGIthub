@@ -13,11 +13,6 @@ public class Hello {
     @GetMapping("/aa")
     @ResponseBody
     public String aa(){
-        System.out.println("helloww");
-        System.out.println("helloww");
-        System.out.println("helloww");
-        System.out.println("helloww");
-        System.out.println("dev");
         return "Hello, Spring Boot 2!";
     }
 
