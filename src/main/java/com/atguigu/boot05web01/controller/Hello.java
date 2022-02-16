@@ -18,6 +18,7 @@ public class Hello {
         System.out.println("helloww");
         System.out.println("helloww");
         System.out.println("hot-fix");
+        System.out.println("master");
         return "Hello, Spring Boot 2!";
     }
 
