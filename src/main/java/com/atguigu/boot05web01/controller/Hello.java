@@ -23,6 +23,8 @@ public class Hello {
         System.out.println("aa");
         System.out.println("aa");
         System.out.println("aa");
+        System.out.println("aa");
+        System.out.println("aa");
         return "Hello, Spring Boot 2!";
     }
 
