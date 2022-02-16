@@ -21,7 +21,7 @@ public class Hello {
         System.out.println("hot-fix");
         System.out.println("hot-fix");
         System.out.println("master");
-        System.out.println("dev");
+        System.out.println("deva");
         return "Hello, Spring Boot 2!";
     }
 
