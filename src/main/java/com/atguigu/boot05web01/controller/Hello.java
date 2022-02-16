@@ -15,6 +15,7 @@ public class Hello {
     public String aa(){
         System.out.println("hi");
         System.out.println("hi");
+        System.out.println("hi");
         return "Hello, Spring Boot 2!";
     }
 
