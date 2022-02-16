@@ -13,19 +13,29 @@ public class Hello {
     @GetMapping("/aa")
     @ResponseBody
     public String aa(){
-        System.out.println("hi");
-        System.out.println("hi");
-        System.out.println("hi");
-        System.out.println("hi");
-        System.out.println("hi");
-        System.out.println("hi");
-        System.out.println("hi");
-        System.out.println("aa");
-        System.out.println("aa");
-        System.out.println("aa");
-        System.out.println("hi");
-        System.out.println("hi");
-        System.out.println("hi");
+        System.out.println("i");
+        System.out.println("i");
+        System.out.println("i");
+        System.out.println("i");
+        System.out.println("i");
+        System.out.println("i");
+        System.out.println("i");
+        System.out.println("i");
+        System.out.println("i");
+        System.out.println("i");
+        System.out.println("i");
+        System.out.println("i");
+        System.out.println("i");
+        System.out.println("i");
+        System.out.println("i");
+        System.out.println("i");
+        System.out.println("i");
+        System.out.println("i");
+        System.out.println("i");
+        System.out.println("i");
+        System.out.println("i");
+        System.out.println("i");
+        System.out.println("i");
         return "Hello, Spring Boot 2!";
     }
 
